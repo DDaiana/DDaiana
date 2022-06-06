@@ -8,7 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ventoreal_ | Website" height="22px" src="daiana-website.netlify.app/Google_Earth_icon.svg" />][website]
-
-[<img align="left" alt="ventoreal_ | LinkedIn" height="22px" src="linkedin.com/in/daiana-melania-dobre-bb61b2187/logos/l/66/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="ventoreal_ | Website" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" />][website]
+[<img align="left" alt="ventoreal_ | YouTube" height="22px" src="https://static.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
+[<img align="left" alt="ventoreal_ | Twitter" height="22px" src="https://static.cdnlogo.com/logos/t/45/twitter.svg" />][twitter]
+[<img align="left" alt="ventoreal_ | LinkedIn" height="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="ventoreal_ | Instagram" height="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />][instagram]
