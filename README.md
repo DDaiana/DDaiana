@@ -29,7 +29,7 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://mpng.subpng.com/20180719/gzy/kisspng-computer-icons-sharepoint-microsoft-computer-softw-microsoft-icons-5b50ab2f8225d1.1598753515320133595331.jpg" />][sharepoint]
 
-[<image  src="https://iconape.com/wp-content/png_logo_vector/axure.png"/>][axurerp]
+[<image align="left" alt="JavaScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/axure.png"/>][axurerp]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github] 
 
@@ -57,7 +57,7 @@
 [css]: https://devdocs.io/css/
 [sql]: https://livesql.oracle.com/
 [terminal]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-[powerapss]: https://powerapps.microsoft.com/en-gb/landing/developer-plan/?&ef_id=EAIaIQobChMI29j0zL2Z-AIVtI9oCR0MuARKEAAYASAAEgLKxPD_BwE:G:s&OCID=AID2203308_SEM_EAIaIQobChMI29j0zL2Z-AIVtI9oCR0MuARKEAAYASAAEgLKxPD_BwE:G:s&gclid=EAIaIQobChMI29j0zL2Z-AIVtI9oCR0MuARKEAAYASAAEgLKxPD_BwE
+[powerapps]: https://powerapps.microsoft.com/en-gb/landing/developer-plan/?&ef_id=EAIaIQobChMI29j0zL2Z-AIVtI9oCR0MuARKEAAYASAAEgLKxPD_BwE:G:s&OCID=AID2203308_SEM_EAIaIQobChMI29j0zL2Z-AIVtI9oCR0MuARKEAAYASAAEgLKxPD_BwE:G:s&gclid=EAIaIQobChMI29j0zL2Z-AIVtI9oCR0MuARKEAAYASAAEgLKxPD_BwE
 [microsoftoffice]: https://www.microsoft.com/en-gb/microsoft-365?rtc=1
 [visualstudio2019]: https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 [netbeanside8.2]:https://www.oracle.com/uk/tools/technologies/netbeans-ide.html
