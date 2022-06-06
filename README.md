@@ -5,6 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1AA9F7&lines=Hi+there%2C+I+am+Daiana!;I+am+an+associate+at+futureproof.)](https://git.io/typing-svg)
 
+### Connect with me:
+
+<img align="left" alt="ventoreal_ | Website" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" />]
+<img align="left" alt="ventoreal_ | LinkedIn" height="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />]
+<img align="left" alt="ventoreal_ | Instagram" height="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />]
+
 
 ### Languages and Tools:
 
