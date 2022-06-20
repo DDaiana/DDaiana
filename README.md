@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ventoreal_ | Website" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" />][website]
-[<img align="left" alt="ventoreal_ | LinkedIn" height="22px" src="[https://www.linkedin.com/in/daiana-melania-dobre-bb61b2187](https://www.linkedin.com/in/daiana-melania-dobre-bb61b2187/logos/l/66/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="ventoreal_ | LinkedIn" height="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="ventoreal_ | Instagram" height="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />][instagram]
 
 <br/>
@@ -48,7 +48,7 @@
 
 [website]: https://daiana-website.netlify.app/
 [instagram]: https://www.instagram.com/daiana_melania/
-[linkedin]: linkedin.com/in/daiana-melania-dobre-bb61b2187
+[linkedin]: https://www.linkedin.com/in/daiana-melania-dobre-bb61b2187/
 
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com/
