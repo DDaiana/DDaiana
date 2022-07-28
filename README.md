@@ -46,7 +46,7 @@
 ---
 
 
-[website]: https://daiana-website.netlify.app/
+[website]: https://ddaiana-portofolio.netlify.app/
 [instagram]: https://www.instagram.com/daiana_melania/
 [linkedin]: https://www.linkedin.com/in/daiana-melania-dobre-bb61b2187/
 
